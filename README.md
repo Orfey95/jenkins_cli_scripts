@@ -1,5 +1,5 @@
 ## Create node
-List of parametrs:
+List of parameters:
 - username - Jenkins username;
 - password - Jenkins password;
 - jenkins_url - Jenkins URL;
