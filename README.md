@@ -6,7 +6,7 @@ List of parameters:
 - name - name of node;
 - description - description of node;
 - remoteFS - root directory of node;
-- numExecutors - number of executors
+- numExecutors - number of executors;
 - host - URL of node;
 - credentialsId - id of credentials;
 - label - labels of node.
