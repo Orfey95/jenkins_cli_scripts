@@ -13,5 +13,5 @@ List of parametrs:
 
 Example:
 ```
-vagrant@ubuntu:~$ bash create_node username 1234 localhost cli_node "my cli node" /home/ubuntu 3 10.20.30.40 test-slave "cli_node ubuntu"
+vagrant@ubuntu:~$ bash create_node.sh username 1234 localhost cli_node "my cli node" /home/ubuntu 3 10.20.30.40 test-slave "cli_node ubuntu"
 ```
